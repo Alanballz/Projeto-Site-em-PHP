@@ -1,7 +1,4 @@
 <?php
-# Isto é apenas um comentário
-// Isto também é um comentário
-/* comentário */
 
 include('code.php');      // Inclui e executa um trecho opcional de código
 include 'code.php';       // Maneira alternativa, funciona apenas com include e require.
